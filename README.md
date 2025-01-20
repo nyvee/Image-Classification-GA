@@ -38,6 +38,6 @@ After training, the model is tested using various metrics, including:
 - Precision
 - Recall
 - F1 Score
-- Specificity\
+- Specificity
 
 Confusion matrices and other visualizations are generated to evaluate performance and detect patterns in the classification errors.
